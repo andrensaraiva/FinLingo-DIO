@@ -1,0 +1,12 @@
+{
+  "levels": [
+    {"level": 1, "title": "🌱 Seedling", "xp_required": 0},
+    {"level": 2, "title": "🌿 Sprout", "xp_required": 100},
+    {"level": 3, "title": "🪴 Sapling", "xp_required": 300},
+    {"level": 4, "title": "🌳 Growing Tree", "xp_required": 600},
+    {"level": 5, "title": "💰 Money Maker", "xp_required": 1000},
+    {"level": 6, "title": "🏦 Finance Explorer", "xp_required": 1500},
+    {"level": 7, "title": "📊 Budget Master", "xp_required": 2200},
+    {"level": 8, "title": "🏆 Financial Sage", "xp_required": 3000}
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "badges": [
+    {
+      "id": "first_step",
+      "name": "First Step",
+      "icon": "👣",
+      "description": "Complete your first lesson",
+      "condition": "complete_first_lesson"
+    },
+    {
+      "id": "quiz_whiz",
+      "name": "Quiz Whiz",
+      "icon": "🧠",
+      "description": "Get a perfect score on any quiz",
+      "condition": "perfect_quiz_score"
+    },
+    {
+      "id": "curious_mind",
+      "name": "Curious Mind",
+      "icon": "💬",
+      "description": "Ask your first question in AI Chat",
+      "condition": "first_ai_chat"
+    },
+    {
+      "id": "number_cruncher",
+      "name": "Number Cruncher",
+      "icon": "🔢",
+      "description": "Use a financial simulator for the first time",
+      "condition": "first_simulation"
+    },
+    {
+      "id": "streak_starter",
+      "name": "Streak Starter",
+      "icon": "🔥",
+      "description": "Reach a 3-day streak",
+      "condition": "streak_3"
+    },
+    {
+      "id": "week_warrior",
+      "name": "Week Warrior",
+      "icon": "🗓️",
+      "description": "Reach a 7-day streak",
+      "condition": "streak_7"
+    },
+    {
+      "id": "path_completer",
+      "name": "Path Completer",
+      "icon": "✅",
+      "description": "Complete an entire learning track",
+      "condition": "complete_track"
+    },
+    {
+      "id": "budget_boss",
+      "name": "Budget Boss",
+      "icon": "💼",
+      "description": "Complete the Spending Control track",
+      "condition": "complete_spending_control"
+    },
+    {
+      "id": "safety_shield",
+      "name": "Safety Shield",
+      "icon": "🛡️",
+      "description": "Complete the Digital Banking Safety track",
+      "condition": "complete_digital_safety"
+    },
+    {
+      "id": "explorer",
+      "name": "Explorer",
+      "icon": "🧭",
+      "description": "Complete all 7 learning tracks",
+      "condition": "complete_all_tracks"
+    }
+  ]
+}

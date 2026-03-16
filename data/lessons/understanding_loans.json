@@ -1,0 +1,78 @@
+{
+  "track_id": "understanding_loans",
+  "lessons": [
+    {
+      "id": "understanding_loans_1",
+      "title": "What Is a Loan?",
+      "order": 1,
+      "pages": [
+        {
+          "content": "## What Is a Loan?\n\nA **loan** is when someone (usually a bank or financial institution) lends you money that you agree to pay back over time, plus **interest** — a fee for borrowing.\n\nLoans let you pay for things you can't afford upfront — like a car, education, or a home.",
+          "key_terms": ["loan", "interest", "principal", "lender", "borrower"],
+          "did_you_know": "The concept of lending goes back over 4,000 years to ancient Mesopotamia!"
+        },
+        {
+          "content": "## Anatomy of a Loan\n\n| Component | What It Means |\n|-----------|---------------|\n| **Principal** | The amount you borrow |\n| **Interest Rate** | The cost of borrowing (%) |\n| **Term** | How long you have to repay |\n| **Monthly Payment** | Fixed amount due each month |\n| **Collateral** | Asset pledged as security (sometimes) |\n\nWhen you make a payment, part goes to **interest** and part to **principal**. Early payments are mostly interest — this is called **amortization**.",
+          "key_terms": ["principal", "amortization", "collateral"],
+          "did_you_know": "In the first year of a 30-year mortgage, about 70% of each payment goes to interest, not paying down what you owe!"
+        },
+        {
+          "content": "## Types of Loans\n\n**Secured Loans** — backed by collateral (like a car or house). Lower rates because there's less risk for the lender.\n- Mortgage (home)\n- Auto loan (car)\n\n**Unsecured Loans** — no collateral. Higher rates because the lender takes more risk.\n- Personal loans\n- Student loans\n- Credit cards (revolving credit)\n\n**Key Takeaway:** Secured loans have lower rates, but you risk losing the asset if you can't pay.",
+          "key_terms": ["secured loan", "unsecured loan", "mortgage", "personal loan"],
+          "did_you_know": "Student loans are the second-largest category of consumer debt in the US, after mortgages."
+        }
+      ]
+    },
+    {
+      "id": "understanding_loans_2",
+      "title": "Interest Rates Demystified",
+      "order": 2,
+      "pages": [
+        {
+          "content": "## Fixed vs. Variable Rates\n\n**Fixed Rate:** The interest rate stays the same for the entire loan. Your monthly payment never changes.\n- ✅ Predictable payments\n- ❌ Usually starts slightly higher\n\n**Variable Rate:** The rate can change based on market conditions.\n- ✅ May start lower\n- ❌ Payments can increase unpredictably\n\n**Rule of thumb:** If rates are low, lock in a fixed rate. If you'll pay off quickly, a variable rate might save money.",
+          "key_terms": ["fixed rate", "variable rate"],
+          "did_you_know": "Some variable rate loans have caps that limit how much the rate can increase in a given period."
+        },
+        {
+          "content": "## APR vs. Interest Rate\n\nThe **interest rate** is the base cost of borrowing. The **APR (Annual Percentage Rate)** includes the interest rate PLUS other fees and costs.\n\nAPR gives you the TRUE cost of a loan. Always compare loans using APR, not just the interest rate.\n\n**Example:**\n- Loan A: 5% rate, 5.5% APR (has fees)\n- Loan B: 5.2% rate, 5.3% APR (fewer fees)\n\nLoan B is actually cheaper despite the higher interest rate!",
+          "key_terms": ["APR", "interest rate", "fees"],
+          "did_you_know": "In many countries, lenders are legally required to show the APR so consumers can make fair comparisons."
+        }
+      ]
+    },
+    {
+      "id": "understanding_loans_3",
+      "title": "Good Debt vs. Bad Debt",
+      "order": 3,
+      "pages": [
+        {
+          "content": "## Not All Debt Is Equal\n\n**\"Good\" Debt** — borrowing that builds value or increases your earning potential:\n- 🎓 Student loans (invest in your career)\n- 🏠 Mortgages (building equity in a home)\n- 💼 Business loans (generating income)\n\n**\"Bad\" Debt** — borrowing for things that lose value or don't generate returns:\n- 💳 Credit card debt on impulse purchases\n- 🛍️ Financing luxury items you can't afford\n- 🚗 Car loans on expensive vehicles beyond your means\n\n**Key Principle:** Good debt helps you build wealth. Bad debt drains it.",
+          "key_terms": ["good debt", "bad debt", "equity"],
+          "did_you_know": "Warren Buffett, one of the world's richest people, has said: 'If you buy things you do not need, soon you will have to sell things you need.'"
+        },
+        {
+          "content": "## The Debt-to-Income Ratio\n\nYour **Debt-to-Income (DTI) ratio** is the percentage of your monthly income that goes to debt payments.\n\n**DTI = (Monthly Debt Payments ÷ Gross Monthly Income) × 100**\n\n| DTI Range | What It Means |\n|-----------|---------------|\n| Under 20% | Healthy — manageable debt |\n| 20-35% | Moderate — be cautious |\n| 36-50% | High — may struggle to get new credit |\n| Over 50% | Critical — seek help |\n\n**Example:** If you earn $3,000/month and have $600 in debt payments, your DTI is 20%.\n\nBanks look at DTI when deciding whether to approve your loan application.",
+          "key_terms": ["debt-to-income ratio", "DTI", "gross income"],
+          "did_you_know": "Most lenders prefer a DTI below 36%, and many won't approve mortgages if your DTI exceeds 43%."
+        }
+      ]
+    },
+    {
+      "id": "understanding_loans_4",
+      "title": "Paying Off Debt Strategically",
+      "order": 4,
+      "pages": [
+        {
+          "content": "## Two Popular Payoff Strategies\n\n### 🏔️ Avalanche Method\nPay off the debt with the **highest interest rate** first (while making minimum payments on others).\n- ✅ Saves the most money on interest\n- ❌ May take longer to see debt disappear\n\n### ☃️ Snowball Method\nPay off the **smallest balance** first (regardless of rate), then roll that payment into the next smallest.\n- ✅ Quick wins keep you motivated\n- ❌ May pay more interest overall\n\n**Both work.** Pick the one that matches your personality. Motivation matters more than math!",
+          "key_terms": ["avalanche method", "snowball method", "minimum payment"],
+          "did_you_know": "Studies show that the snowball method helps people pay off debt faster in practice, because the psychological boost from small wins keeps them committed."
+        },
+        {
+          "content": "## Extra Payments & Refinancing\n\n### Making Extra Payments\nEven small extra payments on your loan principal can save THOUSANDS:\n- Adding $50/month to a 30-year mortgage can cut 5+ years off the loan\n- Always confirm your lender applies extra payments to **principal**, not future interest\n\n### Refinancing\nRefinancing means replacing your current loan with a new one at better terms.\n\nConsider refinancing when:\n- Your credit score has improved\n- Market interest rates have dropped\n- You want to change your loan term\n\n**Watch out for:** Refinancing fees, prepayment penalties, and resetting the clock on your loan.\n\n**Key Takeaway:** The faster you pay down principal, the less interest you pay overall.",
+          "key_terms": ["extra payments", "refinancing", "prepayment penalty"],
+          "did_you_know": "Making just one extra mortgage payment per year (splitting your monthly payment into biweekly payments) can shave about 4 years off a 30-year loan."
+        }
+      ]
+    }
+  ]
+}

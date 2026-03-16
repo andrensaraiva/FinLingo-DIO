@@ -1,0 +1,73 @@
+{
+  "track_id": "spending_control",
+  "lessons": [
+    {
+      "id": "spending_control_1",
+      "title": "Understanding Your Spending",
+      "order": 1,
+      "pages": [
+        {
+          "content": "## Where Does Your Money Go?\n\nMost people have no idea where their money actually goes. The first step to spending control is **awareness**.\n\nTry this exercise:\n1. Look at your last 30 days of transactions\n2. Categorize each one: **Needs**, **Wants**, or **Savings**\n3. Calculate the percentage for each category\n\n**Common categories:**\n- 🏠 Housing (rent, utilities)\n- 🍕 Food (groceries, dining out)\n- 🚗 Transportation\n- 🎮 Entertainment & subscriptions\n- 👕 Shopping (clothing, electronics)\n- 📱 Phone & internet",
+          "key_terms": ["needs", "wants", "spending categories", "awareness"],
+          "did_you_know": "Studies show that the average person spends about $166/month on subscriptions — but most people estimate they spend only $86. That's nearly double!"
+        },
+        {
+          "content": "## The Latte Factor\n\nSmall daily expenses add up to shocking annual costs. This is called the **Latte Factor**:\n\n| Daily Expense | Cost/Day | Cost/Month | Cost/Year |\n|---------------|----------|------------|----------|\n| Coffee shop | $5 | $150 | $1,825 |\n| Lunch out | $12 | $360 | $4,380 |\n| Ride-share | $15 | $450 | $5,475 |\n| Snacks | $3 | $90 | $1,095 |\n\nThis doesn't mean you should never buy coffee! It means being **intentional** about which small expenses are worth it to you.\n\n**Pro tip:** Pick 1-2 daily habits to reduce, not eliminate. Save the rest and enjoy it guilt-free.",
+          "key_terms": ["latte factor", "daily expenses", "intentional spending"],
+          "did_you_know": "If you invested that $5/day coffee money at 7% annual return for 30 years, you'd have over $200,000!"
+        }
+      ]
+    },
+    {
+      "id": "spending_control_2",
+      "title": "Budgeting Frameworks",
+      "order": 2,
+      "pages": [
+        {
+          "content": "## The 50/30/20 Rule\n\nOne of the simplest budgeting frameworks:\n\n- **50% Needs** — rent, food, utilities, insurance, minimum debt payments\n- **30% Wants** — dining out, entertainment, subscriptions, hobbies\n- **20% Savings & Debt Payoff** — emergency fund, investing, extra debt payments\n\n**Example** (on $3,000/month income):\n- Needs: $1,500\n- Wants: $900\n- Savings: $600\n\nThis is a starting point — adjust based on your situation. If you're paying off debt, you might do 50/20/30 instead.",
+          "key_terms": ["50/30/20 rule", "budget", "needs", "wants", "savings"],
+          "did_you_know": "Senator Elizabeth Warren popularized the 50/30/20 rule in her 2005 book 'All Your Worth.'"
+        },
+        {
+          "content": "## Other Budgeting Methods\n\n### 💰 Pay Yourself First\nAutomate savings BEFORE spending. Transfer 20% to savings on payday, then spend the rest freely.\n\n### 📦 Envelope System\nPut cash in labeled envelopes for each category. When an envelope is empty, you're done spending in that category.\n\n### 🔢 Zero-Based Budget\nAssign EVERY dollar a job. Income minus all allocated spending = exactly $0. Nothing goes unplanned.\n\n### 📱 The Anti-Budget\nOnly track one number: your savings rate. As long as you hit your savings target, spend the rest however you want.\n\n**The best budget is the one you'll actually follow.** Start simple and adjust.",
+          "key_terms": ["pay yourself first", "envelope system", "zero-based budget"],
+          "did_you_know": "The envelope system was popularized by financial advisor Dave Ramsey and works best for people who tend to overspend with cards."
+        }
+      ]
+    },
+    {
+      "id": "spending_control_3",
+      "title": "Beating Impulse Spending",
+      "order": 3,
+      "pages": [
+        {
+          "content": "## The Psychology of Impulse Buying\n\nRetailers spend billions studying how to make you spend more. Their tricks include:\n\n- ⏰ **Urgency:** \"Only 2 left!\" \"Sale ends today!\"\n- 🎁 **Anchoring:** Showing the \"original\" price next to the sale price\n- 📧 **Personalization:** Targeted ads based on your browsing\n- 🛒 **Easy checkout:** One-click buying removes friction\n- 💳 **Card payments:** Spending with cards feels less \"real\" than cash\n\nImpulse buys feel good in the moment because of a **dopamine** rush — but the satisfaction fades fast, often leaving regret.",
+          "key_terms": ["impulse buying", "anchoring", "dopamine", "urgency"],
+          "did_you_know": "Research shows that 84% of Americans admit to making impulse purchases, and the average person spends about $5,400/year on them."
+        },
+        {
+          "content": "## Anti-Impulse Strategies\n\n### ⏰ The 24-Hour Rule\nWant something? Wait 24 hours. If you still want it tomorrow, consider buying it.\n\n### 💰 Cost-Per-Use\nDivide the price by how many times you'll use it.\n- $200 jacket worn 100 times = $2/use ✅\n- $200 gadget used 5 times = $40/use ❌\n\n### 🔕 Unsubscribe & Unfollow\nRemove marketing emails and social media accounts that trigger spending.\n\n### 📋 The Wish List\nKeep a running list. Review it monthly. Most items won't feel important after a few weeks.\n\n### 🧮 Work Hours Calculation\nConvert the price to hours of work. \"Is this item worth 8 hours of my time?\"\n\n**Pro tip:** Delete saved payment info from online stores. Adding friction reduces impulse buys by up to 40%.",
+          "key_terms": ["24-hour rule", "cost-per-use", "wish list"],
+          "did_you_know": "Removing saved credit cards from one online store was shown to reduce impulse purchases by 30–40% in a consumer behavior study."
+        }
+      ]
+    },
+    {
+      "id": "spending_control_4",
+      "title": "Smart Shopping",
+      "order": 4,
+      "pages": [
+        {
+          "content": "## Getting More for Less\n\nBeing frugal isn't about being cheap — it's about **maximizing value**.\n\n### 🔍 Price Comparison Tools\nUse browser extensions and apps to compare prices across retailers. Some even track price history.\n\n### 📅 Seasonal Sales Calendar\n| Month | Best Deals On |\n|-------|---------------|\n| January | Winter clothing, gym memberships |\n| March | Frozen food, luggage |\n| May | Mattresses, appliances |\n| July | Furniture, summer items |\n| November | Electronics, everything (Black Friday) |\n\n### 🏷️ The Unit Price Trick\nAlways compare by **unit price** (cost per ounce, per unit, etc.), not package price. The bigger package isn't always cheaper.",
+          "key_terms": ["unit price", "price comparison", "seasonal sales"],
+          "did_you_know": "January is statistically the best month to buy fitness equipment — prices drop 20-40% as stores try to capitalize on New Year's resolutions."
+        },
+        {
+          "content": "## Subscriptions & Recurring Costs\n\nRecurring costs are the silent budget killers:\n\n### 🔍 Subscription Audit\nDo this quarterly:\n1. List ALL subscriptions (streaming, apps, gym, boxes)\n2. Check: Did I use this in the past 30 days?\n3. If no → cancel or pause it\n4. If yes → is there a cheaper alternative?\n\n### 📊 Negotiation Power\n- Call and ask for a discount (cable, insurance, gym)\n- Mention competitor pricing\n- Ask about loyalty discounts\n- Threaten to cancel — retention departments often have better deals\n\n### 🔁 Annual vs. Monthly\nIf you know you'll keep a subscription, paying annually typically saves 15-20%.\n\n**Key Takeaway:** Audit your recurring expenses every 3 months. You'll almost always find something to cut.",
+          "key_terms": ["subscription audit", "recurring costs", "negotiation"],
+          "did_you_know": "The average American household has 12 paid subscriptions, costing about $219/month. About 42% of people are paying for subscriptions they've forgotten about."
+        }
+      ]
+    }
+  ]
+}

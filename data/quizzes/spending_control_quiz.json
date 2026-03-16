@@ -1,0 +1,111 @@
+{
+  "track_id": "spending_control",
+  "quizzes": [
+    {
+      "lesson_id": "spending_control_1",
+      "questions": [
+        {
+          "id": "sc1_q1",
+          "type": "multiple_choice",
+          "question": "What is the 'Latte Factor'?",
+          "options": [
+            "A special coffee shop discount for regular customers",
+            "The concept that small daily expenses add up to large annual costs",
+            "A budgeting method that only tracks coffee purchases",
+            "The ratio of wants to needs in your budget"
+          ],
+          "correct_answer": 1,
+          "explanation": "The Latte Factor illustrates how small, seemingly insignificant daily expenses (like a daily coffee) can add up to surprisingly large amounts over a year. It's about awareness, not deprivation."
+        },
+        {
+          "id": "sc1_q2",
+          "type": "true_false",
+          "question": "The first step to controlling spending is to track where your money actually goes.",
+          "correct_answer": true,
+          "explanation": "Absolutely! You can't control what you don't measure. Tracking spending for even one month reveals surprising patterns and is the foundation of any budgeting strategy."
+        }
+      ]
+    },
+    {
+      "lesson_id": "spending_control_2",
+      "questions": [
+        {
+          "id": "sc2_q1",
+          "type": "multiple_choice",
+          "question": "In the 50/30/20 budget rule, what does the 20% represent?",
+          "options": [
+            "Needs (rent, food, utilities)",
+            "Wants (entertainment, dining out)",
+            "Savings and extra debt payments",
+            "Emergency expenses"
+          ],
+          "correct_answer": 2,
+          "explanation": "In the 50/30/20 rule: 50% goes to Needs, 30% to Wants, and 20% to Savings & Debt Payoff. The 20% includes emergency fund, investments, and extra debt payments beyond minimums."
+        },
+        {
+          "id": "sc2_q2",
+          "type": "multiple_choice",
+          "question": "What is the 'Pay Yourself First' budgeting method?",
+          "options": [
+            "Paying all your bills before spending on wants",
+            "Automating savings transfers before spending anything else",
+            "Calculating your hourly wage for every purchase",
+            "Keeping a portion of your paycheck in cash"
+          ],
+          "correct_answer": 1,
+          "explanation": "Pay Yourself First means automatically transferring your savings amount (e.g., 20%) to a savings or investment account as soon as you get paid, BEFORE any other spending. This ensures saving happens consistently."
+        }
+      ]
+    },
+    {
+      "lesson_id": "spending_control_3",
+      "questions": [
+        {
+          "id": "sc3_q1",
+          "type": "multiple_choice",
+          "question": "What is the '24-Hour Rule' for combating impulse purchases?",
+          "options": [
+            "Only shop for 24 hours per month",
+            "Return items within 24 hours for a refund",
+            "Wait 24 hours before buying non-essential items",
+            "Limit online browsing to 24 minutes per day"
+          ],
+          "correct_answer": 2,
+          "explanation": "The 24-Hour Rule means waiting a full day before making a non-essential purchase. Most impulse urges fade within this time, helping you avoid regretful spending."
+        },
+        {
+          "id": "sc3_q2",
+          "type": "true_false",
+          "question": "Paying with a credit card makes people tend to spend less than paying with cash.",
+          "correct_answer": false,
+          "explanation": "Research consistently shows the opposite — paying with cards leads to HIGHER spending because it feels less 'real' than handing over physical cash. This is why the envelope system uses cash to control spending."
+        }
+      ]
+    },
+    {
+      "lesson_id": "spending_control_4",
+      "questions": [
+        {
+          "id": "sc4_q1",
+          "type": "multiple_choice",
+          "question": "When comparing product prices, what should you look at instead of the total package price?",
+          "options": [
+            "The brand name",
+            "The unit price (cost per ounce/unit)",
+            "The package size",
+            "The shelf placement"
+          ],
+          "correct_answer": 1,
+          "explanation": "The unit price (cost per ounce, gram, or unit) is the most accurate way to compare products. A larger package isn't always cheaper per unit, and a smaller one might actually be the better deal."
+        },
+        {
+          "id": "sc4_q2",
+          "type": "true_false",
+          "question": "You should audit your subscriptions at least every 3 months to find unused services.",
+          "correct_answer": true,
+          "explanation": "Regular subscription audits help you catch services you've stopped using. The average person pays for subscriptions they've forgotten about, and a quarterly review can save hundreds of dollars per year."
+        }
+      ]
+    }
+  ]
+}

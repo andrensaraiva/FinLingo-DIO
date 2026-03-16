@@ -1,0 +1,73 @@
+{
+  "track_id": "emergency_fund",
+  "quizzes": [
+    {
+      "lesson_id": "ef_01",
+      "questions": [
+        {
+          "id": "ef_q01",
+          "type": "multiple_choice",
+          "question": "Which of these is a good reason to use your emergency fund?",
+          "options": [
+            "A great sale on a new phone",
+            "An unexpected car repair",
+            "A vacation with friends",
+            "Concert tickets that just went on sale"
+          ],
+          "correct_answer": 1,
+          "explanation": "An emergency fund is for genuinely unexpected, necessary expenses. A car repair you need for transportation qualifies. Sales, vacations, and entertainment do not."
+        },
+        {
+          "id": "ef_q02",
+          "type": "true_false",
+          "question": "Without an emergency fund, unexpected expenses often lead to debt.",
+          "correct_answer": true,
+          "explanation": "Without savings for emergencies, people commonly turn to credit cards or loans, which come with interest and can create debt spirals."
+        }
+      ]
+    },
+    {
+      "lesson_id": "ef_02",
+      "questions": [
+        {
+          "id": "ef_q03",
+          "type": "multiple_choice",
+          "question": "How many months of essential expenses do experts recommend saving?",
+          "options": [
+            "1 month",
+            "3 to 6 months",
+            "12 months minimum",
+            "It doesn't matter"
+          ],
+          "correct_answer": 1,
+          "explanation": "The general recommendation is 3-6 months of essential expenses. The exact amount depends on your job stability, dependents, and personal situation."
+        },
+        {
+          "id": "ef_q04",
+          "type": "true_false",
+          "question": "Your emergency fund should be invested in high-risk stocks for maximum growth.",
+          "correct_answer": false,
+          "explanation": "Emergency funds should be safe and accessible. Stocks are volatile — your fund could lose value right when you need it most. Use a savings account instead."
+        }
+      ]
+    },
+    {
+      "lesson_id": "ef_03",
+      "questions": [
+        {
+          "id": "ef_q05",
+          "type": "multiple_choice",
+          "question": "What's the best approach to start building an emergency fund?",
+          "options": [
+            "Wait until you have a high salary",
+            "Automate small, consistent deposits on payday",
+            "Borrow money to create the fund faster",
+            "Put all your money in stocks and hope for the best"
+          ],
+          "correct_answer": 1,
+          "explanation": "Automating small, consistent deposits is the most effective strategy. People who automate are much more likely to build their fund consistently."
+        }
+      ]
+    }
+  ]
+}

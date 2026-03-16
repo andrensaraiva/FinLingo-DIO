@@ -1,0 +1,56 @@
+{
+  "track_id": "intro_to_investing",
+  "lessons": [
+    {
+      "id": "intro_to_investing_1",
+      "title": "Why Invest?",
+      "order": 1,
+      "pages": [
+        {
+          "content": "## Why Should You Invest?\n\nSaving money is great, but it's not enough. Here's why:\n\n### 📉 Inflation Eats Your Savings\n**Inflation** means prices rise over time. If inflation is 3%/year and your savings earn 1%/year, you're actually **losing** 2% of purchasing power annually.\n\n| Year | $10,000 in savings (1%) | Real value (after 3% inflation) |\n|------|-------------------------|----------------------------------|\n| 0 | $10,000 | $10,000 |\n| 5 | $10,510 | $9,060 |\n| 10 | $11,046 | $8,206 |\n| 20 | $12,202 | $6,730 |\n\n### 📈 Investing Beats Inflation\nHistorically, the stock market has returned about **7-10% per year** on average (before inflation). This means your money can actually GROW over time.",
+          "key_terms": ["inflation", "purchasing power", "real return", "investing"],
+          "did_you_know": "A dollar in 1950 would need to be about $12.50 today to have the same purchasing power. That's the power of inflation over time."
+        },
+        {
+          "content": "## The Power of Compound Growth\n\nCompound growth is when your returns earn their own returns. Einstein reportedly called it the \"eighth wonder of the world.\"\n\n### Example: $200/month invested at 7%/year\n\n| Years | Total Invested | Total Value | Growth |\n|-------|---------------|-------------|--------|\n| 5 | $12,000 | $14,300 | +$2,300 |\n| 10 | $24,000 | $34,600 | +$10,600 |\n| 20 | $48,000 | $104,800 | +$56,800 |\n| 30 | $72,000 | $243,900 | +$171,900 |\n\nNotice: In the first 10 years, you gained $10,600. In the LAST 10 years alone, you gained $139,100. That's compound growth!\n\n**The earlier you start, the more time works for you.** Even small amounts invested young beat larger amounts invested later.",
+          "key_terms": ["compound growth", "compound interest", "time value of money"],
+          "did_you_know": "If you invest $100/month starting at age 25, you'd have about $380,000 by 65. Start at 35, and you'd have about $180,000. Starting 10 years earlier more than doubles your result!"
+        }
+      ]
+    },
+    {
+      "id": "intro_to_investing_2",
+      "title": "Investment Types for Beginners",
+      "order": 2,
+      "pages": [
+        {
+          "content": "## Main Investment Types\n\n### 📈 Stocks\nOwning a tiny piece of a company. Highest potential returns, but also highest risk.\n- Individual stocks can go up OR down significantly\n- Best for: long-term goals (5+ years)\n\n### 🏛️ Bonds\nLending money to a government or company in exchange for regular interest payments.\n- Lower risk, lower returns than stocks\n- Best for: stability and income\n\n### 📊 Index Funds / ETFs\nA basket of many stocks bundled together. Instant diversification!\n- An S&P 500 index fund holds 500 of the largest US companies\n- Lower fees than actively managed funds\n- Best for: beginners and long-term investors\n\n### 🏠 Real Estate\nBuying property (or investing through REITs — Real Estate Investment Trusts).\n- Provides rental income and potential appreciation\n- Requires more capital or specialized funds",
+          "key_terms": ["stocks", "bonds", "index funds", "ETFs", "REITs", "diversification"],
+          "did_you_know": "Warren Buffett recommends index funds for most investors. In his will, he instructs 90% of his wife's inheritance to be invested in a low-cost S&P 500 index fund."
+        },
+        {
+          "content": "## Risk vs. Return\n\nEvery investment involves a trade-off between risk and potential return:\n\n```\nHigher Risk / Higher Return\n    ┌──────────────────┐\n    │ Crypto           │\n    │ Individual Stocks │\n    │ Stock Index Funds │\n    │ Corporate Bonds   │\n    │ Government Bonds  │\n    │ Savings Account   │\n    └──────────────────┘\nLower Risk / Lower Return\n```\n\n### Key Concepts:\n- **Diversification:** Don't put all eggs in one basket. Spread investments across types.\n- **Risk Tolerance:** How much loss can you handle without panicking? Be honest!\n- **Time Horizon:** More time = more risk you can take, because you can wait out downturns.\n\n**Rule of Thumb:** The percentage of stocks in your portfolio should be roughly (110 - your age). A 25-year-old might have 85% stocks, 15% bonds.",
+          "key_terms": ["risk tolerance", "diversification", "time horizon", "asset allocation"],
+          "did_you_know": "The S&P 500 has never lost money over any 20-year period in its history, despite several severe crashes along the way."
+        }
+      ]
+    },
+    {
+      "id": "intro_to_investing_3",
+      "title": "Getting Started with Investing",
+      "order": 3,
+      "pages": [
+        {
+          "content": "## Your First Steps\n\n### Step 1: Build Your Foundation First\nBefore investing:\n- ✅ Have an emergency fund (3-6 months of expenses)\n- ✅ Pay off high-interest debt (credit cards)\n- ✅ Have a stable income\n\n### Step 2: Choose a Brokerage\nA brokerage is where you buy and sell investments. Look for:\n- No account minimums\n- Low/no trading fees\n- User-friendly app\n- Educational resources\n\n### Step 3: Start Simple\nYour first investment should probably be a **broad market index fund** (like a total stock market or S&P 500 fund). It gives you instant diversification across hundreds of companies.\n\n### Step 4: Automate\nSet up automatic monthly investments (dollar-cost averaging). This removes emotion from the equation.",
+          "key_terms": ["brokerage", "dollar-cost averaging", "index fund", "emergency fund"],
+          "did_you_know": "Dollar-cost averaging means you automatically buy more shares when prices are low and fewer when prices are high, which can lower your average cost per share over time."
+        },
+        {
+          "content": "## Common Beginner Mistakes\n\n### ❌ Mistakes to Avoid:\n1. **Trying to time the market** — Nobody can consistently predict when to buy/sell\n2. **Panic selling** — Markets go down sometimes. Selling locks in losses.\n3. **Chasing hot tips** — By the time you hear about it, it's usually too late\n4. **Checking too often** — Daily checking leads to emotional decisions\n5. **Not diversifying** — Putting everything in one stock is gambling, not investing\n6. **Waiting for the \"perfect\" time** — The best time was yesterday; the next best is today\n\n### ✅ What to Do Instead:\n- Invest consistently, regardless of market conditions\n- Think in decades, not days\n- Keep fees low (index funds charge 0.03-0.2%)\n- Reinvest dividends automatically\n- Increase contributions when you get a raise\n\n**The most important investment principle:** **Time in the market beats timing the market.** Start early, stay consistent, and let compound growth do the work.",
+          "key_terms": ["timing the market", "panic selling", "dividends", "long-term investing"],
+          "did_you_know": "Missing just the 10 best trading days over a 20-year period would cut your returns nearly in half. Most of those best days occur right after the worst days — which is why panic selling is so costly."
+        }
+      ]
+    }
+  ]
+}

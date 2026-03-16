@@ -1,0 +1,74 @@
+{
+  "tracks": [
+    {
+      "id": "credit_card_basics",
+      "title": "Credit Card Basics",
+      "icon": "💳",
+      "description": "Understand what credit cards are, how they work, and how to use them responsibly.",
+      "difficulty": "beginner",
+      "order": 1,
+      "lessons_count": 3,
+      "color": "#10B981"
+    },
+    {
+      "id": "interest_and_installments",
+      "title": "Interest & Installments",
+      "icon": "📊",
+      "description": "Learn how interest works — simple vs. compound — and how installment plans affect total cost.",
+      "difficulty": "beginner",
+      "order": 2,
+      "lessons_count": 3,
+      "color": "#14B8A6"
+    },
+    {
+      "id": "emergency_fund",
+      "title": "Emergency Fund",
+      "icon": "🛡️",
+      "description": "Learn why an emergency fund matters and how to start one realistically.",
+      "difficulty": "beginner",
+      "order": 3,
+      "lessons_count": 3,
+      "color": "#F59E0B"
+    },
+    {
+      "id": "understanding_loans",
+      "title": "Understanding Loans",
+      "icon": "🏦",
+      "description": "Demystify loans — types, terms, interest, and how to evaluate whether borrowing makes sense.",
+      "difficulty": "intermediate",
+      "order": 4,
+      "lessons_count": 4,
+      "color": "#6366F1"
+    },
+    {
+      "id": "spending_control",
+      "title": "Spending Control",
+      "icon": "💸",
+      "description": "Learn how to track, categorize, and reduce unnecessary spending.",
+      "difficulty": "beginner",
+      "order": 5,
+      "lessons_count": 4,
+      "color": "#EC4899"
+    },
+    {
+      "id": "digital_banking_safety",
+      "title": "Digital Banking Safety",
+      "icon": "🔒",
+      "description": "Understand how to protect yourself in the digital financial world.",
+      "difficulty": "beginner",
+      "order": 6,
+      "lessons_count": 3,
+      "color": "#EF4444"
+    },
+    {
+      "id": "intro_to_investing",
+      "title": "Intro to Investing",
+      "icon": "🌱",
+      "description": "Understand the very basics of investing — what it is, common types, and how to start thinking about it.",
+      "difficulty": "intermediate",
+      "order": 7,
+      "lessons_count": 3,
+      "color": "#8B5CF6"
+    }
+  ]
+}

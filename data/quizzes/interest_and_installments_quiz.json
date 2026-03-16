@@ -1,0 +1,93 @@
+{
+  "track_id": "interest_and_installments",
+  "quizzes": [
+    {
+      "lesson_id": "iai_01",
+      "questions": [
+        {
+          "id": "iai_q01",
+          "type": "multiple_choice",
+          "question": "What is interest?",
+          "options": [
+            "A fee the store charges for using a card",
+            "The cost of using someone else's money",
+            "A tax the government charges on purchases",
+            "A bonus you receive for opening a bank account"
+          ],
+          "correct_answer": 1,
+          "explanation": "Interest is the cost of borrowing money — it's the fee you pay for the privilege of using someone else's money temporarily."
+        },
+        {
+          "id": "iai_q02",
+          "type": "true_false",
+          "question": "Higher-risk loans generally have lower interest rates.",
+          "correct_answer": false,
+          "explanation": "It's the opposite — higher risk means higher interest rates. Lenders charge more to compensate for the greater chance of not being repaid."
+        }
+      ]
+    },
+    {
+      "lesson_id": "iai_02",
+      "questions": [
+        {
+          "id": "iai_q03",
+          "type": "multiple_choice",
+          "question": "Compound interest is calculated on the _______ plus accumulated interest.",
+          "options": [
+            "Total debt",
+            "Monthly payment",
+            "Principal",
+            "Credit limit"
+          ],
+          "correct_answer": 2,
+          "explanation": "Compound interest is calculated on the principal (original amount) plus any interest already earned or charged. That's what makes it grow faster over time."
+        },
+        {
+          "id": "iai_q04",
+          "type": "multiple_choice",
+          "question": "You invest $1,000 at 5% simple interest for 3 years. How much interest do you earn?",
+          "options": [
+            "$50",
+            "$100",
+            "$150",
+            "$157.63"
+          ],
+          "correct_answer": 2,
+          "explanation": "Simple interest: $1,000 × 5% × 3 years = $150. With simple interest, you earn the same amount each year because it's always calculated on the original principal."
+        },
+        {
+          "id": "iai_q05",
+          "type": "true_false",
+          "question": "When saving money, compound interest works in your favor.",
+          "correct_answer": true,
+          "explanation": "Compound interest makes your savings grow faster because you earn interest on your interest. The longer you save, the more powerful the effect becomes."
+        }
+      ]
+    },
+    {
+      "lesson_id": "iai_03",
+      "questions": [
+        {
+          "id": "iai_q06",
+          "type": "multiple_choice",
+          "question": "What generally happens when you choose more installments for a purchase?",
+          "options": [
+            "You pay less total",
+            "The monthly payment is lower but the total cost is higher",
+            "The interest rate decreases",
+            "Nothing changes — the total is always the same"
+          ],
+          "correct_answer": 1,
+          "explanation": "More installments mean lower monthly payments, but you pay interest for a longer period, making the total cost higher."
+        },
+        {
+          "id": "iai_q07",
+          "type": "true_false",
+          "question": "'Interest-free' installment plans always mean you pay zero extra cost.",
+          "correct_answer": false,
+          "explanation": "Some 'interest-free' plans have the interest baked into the item price, or they remove a cash discount. Always compare the installment total to the cash price."
+        }
+      ]
+    }
+  ]
+}

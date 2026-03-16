@@ -1,0 +1,56 @@
+{
+  "track_id": "emergency_fund",
+  "lessons": [
+    {
+      "id": "ef_01",
+      "title": "What Is an Emergency Fund?",
+      "order": 1,
+      "pages": [
+        {
+          "content": "### Your Financial Safety Net\n\nAn **emergency fund** is money you set aside specifically for unexpected expenses — things like job loss, medical bills, car repairs, or urgent home fixes.\n\nIt's NOT for:\n- Vacations\n- New gadgets\n- Sales or deals\n- 'I deserve it' moments\n\nThink of it as your financial seatbelt. You hope you never need it, but if something goes wrong, it protects you from crashing into debt.",
+          "key_terms": ["emergency fund"],
+          "did_you_know": "Studies show that nearly 40% of adults couldn't cover an unexpected $400 expense without borrowing money or selling something."
+        },
+        {
+          "content": "### Why It Matters\n\nWithout an emergency fund, unexpected expenses force you into one of these options:\n\n1. **Credit card debt** — High interest, hard to escape\n2. **Personal loans** — Interest costs, application stress\n3. **Borrowing from friends/family** — Awkward and unreliable\n4. **Selling belongings** — Often at a loss\n\nWith an emergency fund, you simply... pay for it. No debt, no stress, no awkward conversations.\n\n**The peace of mind alone is worth it.** People with emergency funds report significantly lower financial stress — even if they never use the fund.",
+          "key_terms": [],
+          "did_you_know": null
+        }
+      ]
+    },
+    {
+      "id": "ef_02",
+      "title": "How Much Should You Save?",
+      "order": 2,
+      "pages": [
+        {
+          "content": "### The Golden Rule: 3 to 6 Months\n\nFinancial experts generally recommend saving **3 to 6 months' worth of essential expenses** in your emergency fund.\n\n**Essential expenses** include:\n- Rent / mortgage\n- Utilities (electricity, water, internet)\n- Food and groceries\n- Transportation\n- Insurance\n- Minimum debt payments\n\n**Not included:** Entertainment, dining out, subscriptions, shopping.\n\n**Example:** If your monthly essentials total $2,000:\n- 3-month fund = $6,000\n- 6-month fund = $12,000",
+          "key_terms": ["essential expenses"],
+          "did_you_know": "Freelancers and self-employed workers should aim for 6-12 months because their income can be less predictable."
+        },
+        {
+          "content": "### Adjusting to Your Reality\n\nDon't let the big number scare you. Start where you are:\n\n**Starter goal:** Save $500-$1,000 first. This covers most minor emergencies (car repair, medical copay, appliance replacement).\n\n**Then build up:** Once you hit $1,000, aim for 1 month of expenses. Then 3 months. Then 6.\n\n**Factors that affect your target:**\n- Stable job with benefits? → 3 months may be enough\n- Freelancer or single income? → Aim for 6+ months\n- Have dependents? → Lean toward 6 months\n- Renter vs. homeowner? → Homeowners may need more (repairs are expensive)\n\n**The most important number is NOT zero.** Any emergency fund is better than none.",
+          "key_terms": [],
+          "did_you_know": null
+        }
+      ]
+    },
+    {
+      "id": "ef_03",
+      "title": "How to Start Saving Today",
+      "order": 3,
+      "pages": [
+        {
+          "content": "### Practical Strategies\n\n**1. Pay Yourself First**\nTreat your emergency fund like a bill. Set up an automatic transfer on payday — even $25 or $50/month adds up.\n\n**2. Start Small, Stay Consistent**\nSaving $50/month = $600/year. That's a solid starter emergency fund from just $1.67/day.\n\n**3. Use a Separate Account**\nKeep your emergency fund in a separate savings account. Out of sight, out of mind — but accessible when you need it.\n\n**4. Cut One Thing**\nCancel one subscription you don't use, eat out one less time per week, or swap one expensive habit for a cheaper alternative. Redirect that money to your fund.",
+          "key_terms": ["pay yourself first", "automatic transfer"],
+          "did_you_know": "People who automate their savings are 4x more likely to consistently build their emergency fund than those who try to save manually."
+        },
+        {
+          "content": "### Where to Keep Your Emergency Fund\n\nYour emergency fund should be:\n- ✅ **Accessible** — You need to be able to get it quickly (within 1-2 days)\n- ✅ **Safe** — No risk of losing value\n- ✅ **Separate** — Not in your everyday checking account\n- ❌ **NOT invested in stocks** — Too much risk for emergency money\n\n**Best options:**\n- High-yield savings account (HYSA) — earns some interest while staying safe and accessible\n- Regular savings account — simple and effective\n\n**Avoid:**\n- Stocks or crypto (too volatile)\n- Certificates of deposit (locked for a set period)\n- Cash under the mattress (no interest, risk of loss)\n\n🎉 **You've completed the Emergency Fund track!** Starting your emergency fund is one of the smartest financial moves you can make. Remember: the hardest part is starting — and you already took the first step by learning about it!",
+          "key_terms": ["high-yield savings account"],
+          "did_you_know": null
+        }
+      ]
+    }
+  ]
+}

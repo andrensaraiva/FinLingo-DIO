@@ -1,0 +1,71 @@
+{
+  "track_id": "credit_card_basics",
+  "lessons": [
+    {
+      "id": "ccb_01",
+      "title": "What Is a Credit Card?",
+      "order": 1,
+      "pages": [
+        {
+          "content": "A **credit card** is a payment tool issued by a bank or financial institution that lets you borrow money to make purchases. Unlike a debit card — which takes money directly from your bank account — a credit card gives you a short-term loan every time you use it.\n\nThink of it like this: when you swipe your credit card, the bank pays the store on your behalf. Then, at the end of the month, the bank sends you a bill (called a **statement**) asking you to pay them back.",
+          "key_terms": ["credit card", "statement"],
+          "did_you_know": null
+        },
+        {
+          "content": "### How the Billing Cycle Works\n\nEvery credit card has a **billing cycle** — usually about 30 days. During this period, every purchase you make gets added to your balance.\n\nAt the end of the cycle, you receive a **statement** showing:\n- Your total balance\n- The minimum payment due\n- The due date\n\nIf you pay your **full balance** by the due date, you won't be charged any interest. It's essentially an interest-free loan! But if you only pay part of it (or the minimum), the remaining balance starts accruing **interest** — and that's where credit cards can get expensive.",
+          "key_terms": ["billing cycle", "balance", "minimum payment", "interest"],
+          "did_you_know": "If you pay your full credit card balance each month by the due date, you effectively use the bank's money for free for up to 30 days!"
+        },
+        {
+          "content": "### Credit Card vs. Debit Card\n\n| Feature | Credit Card | Debit Card |\n|---|---|---|\n| Source of funds | Bank's money (loan) | Your money (bank account) |\n| Payment timing | Pay later (end of billing cycle) | Pay now (instant deduction) |\n| Interest | Charged if you don't pay in full | None |\n| Credit building | Yes — helps build credit history | No |\n| Overspending risk | Higher — easy to spend more than you have | Lower — limited to your balance |\n\n**Key takeaway:** A credit card is a powerful tool when used wisely — it helps build credit, offers purchase protection, and can earn rewards. But if misused, it can lead to debt. The secret? Always aim to pay your full balance each month.",
+          "key_terms": ["debit card", "credit history"],
+          "did_you_know": null
+        }
+      ]
+    },
+    {
+      "id": "ccb_02",
+      "title": "Interest Rates and Minimum Payments",
+      "order": 2,
+      "pages": [
+        {
+          "content": "### What Is APR?\n\n**APR** stands for **Annual Percentage Rate** — it's the yearly interest rate your credit card charges on unpaid balances.\n\nFor example, if your credit card has an APR of 24%, that means you're being charged about **2% per month** on any balance you carry.\n\nHere's the catch: credit card interest is usually **compound** — meaning you pay interest on your interest. So a $1,000 balance at 24% APR doesn't just cost you $240/year in interest. It can cost more because the interest keeps stacking.",
+          "key_terms": ["APR", "Annual Percentage Rate", "compound interest"],
+          "did_you_know": "The average credit card APR in the US is around 20-25%. That makes credit cards one of the most expensive ways to borrow money!"
+        },
+        {
+          "content": "### The Minimum Payment Trap\n\nEvery credit card statement includes a **minimum payment** — the smallest amount you can pay to keep your account in good standing. It's usually around 1-3% of your total balance, or a fixed amount like $25, whichever is higher.\n\nSounds convenient, right? Here's the problem:\n\n**Example:** You owe $3,000 at 22% APR. Your minimum payment is $60/month.\n- If you only pay the minimum, it would take you **over 16 years** to pay it off\n- You'd pay approximately **$4,800 in interest** — more than the original balance!\n\nThe minimum payment is designed to keep you in debt for as long as possible. It's the bare minimum to avoid penalties — not a healthy repayment strategy.",
+          "key_terms": ["minimum payment"],
+          "did_you_know": "Credit card companies profit the most when you pay only the minimum. That's why the minimum is so low — it keeps you paying interest for years."
+        },
+        {
+          "content": "### How to Avoid the Interest Trap\n\nHere are practical strategies to avoid paying unnecessary interest:\n\n1. **Pay your full balance** every month — this is the golden rule\n2. **If you can't pay in full**, pay as much as you can above the minimum\n3. **Set up auto-pay** for at least the minimum (to avoid late fees), but try to pay more manually\n4. **Track your spending** during the billing cycle so the statement doesn't surprise you\n5. **Avoid cash advances** — they usually have even higher interest rates and no grace period\n\n**Remember:** A credit card used wisely is a tool. A credit card used carelessly is a trap. You now know the difference! 💪",
+          "key_terms": ["auto-pay", "grace period", "cash advance"],
+          "did_you_know": null
+        }
+      ]
+    },
+    {
+      "id": "ccb_03",
+      "title": "Using Credit Cards Wisely",
+      "order": 3,
+      "pages": [
+        {
+          "content": "### Building Your Credit Score\n\nYour **credit score** is a number (usually 300-850) that tells lenders how trustworthy you are as a borrower. A higher score means better loan terms, lower interest rates, and more financial opportunities.\n\nUsing a credit card responsibly is one of the best ways to build credit. Here's what affects your score:\n\n- **Payment history (35%)** — Do you pay on time? This is the #1 factor\n- **Credit utilization (30%)** — How much of your credit limit do you use? Keep it under 30%\n- **Length of history (15%)** — How long have you had credit?\n- **Credit mix (10%)** — Do you have different types of credit?\n- **New inquiries (10%)** — How often do you apply for new credit?",
+          "key_terms": ["credit score", "credit utilization", "payment history"],
+          "did_you_know": "Using only 10-20% of your available credit limit is considered ideal for building a great credit score."
+        },
+        {
+          "content": "### Best Practices for Credit Card Use\n\n✅ **Do:**\n- Pay your full balance monthly\n- Keep utilization under 30% of your limit\n- Set up payment reminders or auto-pay\n- Review your statement for errors or fraud\n- Use credit cards for planned purchases, not impulse buys\n\n❌ **Don't:**\n- Max out your card\n- Pay only the minimum regularly\n- Use your credit card for cash advances\n- Open multiple cards in a short period\n- Ignore your statements\n\n**The simple test:** Before swiping, ask yourself: 'Can I pay for this when the bill comes?' If yes, use the card. If no, reconsider.",
+          "key_terms": [],
+          "did_you_know": null
+        },
+        {
+          "content": "### Credit Card Rewards — Are They Worth It?\n\nMany credit cards offer rewards: **cashback**, **points**, or **miles** on purchases. These can be great benefits, but only if you use them wisely.\n\n**When rewards ARE worth it:**\n- You pay your full balance every month (no interest canceling out your rewards)\n- You use the card for purchases you'd make anyway\n- The card has no annual fee (or the rewards outweigh the fee)\n\n**When rewards are NOT worth it:**\n- You carry a balance and pay interest — the interest almost always outweighs the rewards\n- You spend more just to earn rewards\n- You forget to redeem your points\n\n**Bottom line:** Rewards are a bonus, not a reason to spend. Think of them as a small thank-you for responsible use — not as free money.\n\n🎉 **Congratulations!** You've completed the Credit Card Basics track. You now understand how credit cards work, the dangers of minimum payments, and how to use credit wisely!",
+          "key_terms": ["cashback", "rewards"],
+          "did_you_know": "Some estimates show that over $16 billion in credit card rewards go unredeemed every year!"
+        }
+      ]
+    }
+  ]
+}

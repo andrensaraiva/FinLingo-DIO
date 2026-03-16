@@ -1,0 +1,124 @@
+{
+  "track_id": "understanding_loans",
+  "quizzes": [
+    {
+      "lesson_id": "understanding_loans_1",
+      "questions": [
+        {
+          "id": "ul1_q1",
+          "type": "multiple_choice",
+          "question": "What is 'principal' in the context of a loan?",
+          "options": [
+            "The interest you pay over time",
+            "The original amount you borrow",
+            "The monthly payment amount",
+            "The bank's fee for processing the loan"
+          ],
+          "correct_answer": 1,
+          "explanation": "Principal is the original amount of money you borrow. Interest is calculated on the principal, and your payments go toward reducing both the principal and paying interest."
+        },
+        {
+          "id": "ul1_q2",
+          "type": "true_false",
+          "question": "A secured loan typically has a higher interest rate than an unsecured loan.",
+          "correct_answer": false,
+          "explanation": "Secured loans have LOWER interest rates because the lender has collateral. If you can't pay, they can take the asset. This reduces their risk, so they charge less."
+        },
+        {
+          "id": "ul1_q3",
+          "type": "multiple_choice",
+          "question": "In the early payments of a loan, most of your payment goes toward:",
+          "options": [
+            "The principal (the amount you borrowed)",
+            "The interest (the cost of borrowing)",
+            "Fees and processing costs",
+            "An equal split between principal and interest"
+          ],
+          "correct_answer": 1,
+          "explanation": "In the early stages of a loan, most of your payment goes toward interest. As you pay down the principal over time, a larger portion of each payment goes toward the principal. This process is called amortization."
+        }
+      ]
+    },
+    {
+      "lesson_id": "understanding_loans_2",
+      "questions": [
+        {
+          "id": "ul2_q1",
+          "type": "multiple_choice",
+          "question": "What does APR stand for and why is it important?",
+          "options": [
+            "Annual Payment Rate — shows your yearly payment",
+            "Annual Percentage Rate — shows the true total cost of borrowing",
+            "Average Principal Reduction — shows how fast you pay off the loan",
+            "Adjusted Payment Ratio — shows loan efficiency"
+          ],
+          "correct_answer": 1,
+          "explanation": "APR stands for Annual Percentage Rate. It includes the interest rate PLUS other fees and costs, giving you the true total cost of borrowing. Always compare loans using APR."
+        },
+        {
+          "id": "ul2_q2",
+          "type": "true_false",
+          "question": "A variable interest rate means your monthly payment will stay the same throughout the loan term.",
+          "correct_answer": false,
+          "explanation": "With a variable rate, the interest rate changes based on market conditions, so your monthly payment can increase or decrease over time. A fixed rate keeps payments the same."
+        }
+      ]
+    },
+    {
+      "lesson_id": "understanding_loans_3",
+      "questions": [
+        {
+          "id": "ul3_q1",
+          "type": "multiple_choice",
+          "question": "Which of the following is generally considered 'good debt'?",
+          "options": [
+            "Credit card debt from a shopping spree",
+            "A personal loan for a vacation",
+            "A student loan for professional education",
+            "Financing a luxury item beyond your means"
+          ],
+          "correct_answer": 2,
+          "explanation": "A student loan is considered 'good debt' because education increases your earning potential. Good debt helps you build wealth or increase income. Bad debt is for things that lose value."
+        },
+        {
+          "id": "ul3_q2",
+          "type": "multiple_choice",
+          "question": "What does a Debt-to-Income (DTI) ratio of 40% mean?",
+          "options": [
+            "You've paid off 40% of your total debt",
+            "40% of your monthly income goes to debt payments",
+            "Your debt is 40% higher than your savings",
+            "You have 40% of your income available for new debt"
+          ],
+          "correct_answer": 1,
+          "explanation": "A DTI of 40% means 40% of your gross monthly income goes toward debt payments. Most lenders consider anything above 36% to be high, and above 43% is often a disqualifier for mortgages."
+        }
+      ]
+    },
+    {
+      "lesson_id": "understanding_loans_4",
+      "questions": [
+        {
+          "id": "ul4_q1",
+          "type": "multiple_choice",
+          "question": "In the 'Snowball Method' of debt repayment, you pay off debts by:",
+          "options": [
+            "Highest interest rate first",
+            "Largest balance first",
+            "Smallest balance first",
+            "Newest debt first"
+          ],
+          "correct_answer": 2,
+          "explanation": "The Snowball Method focuses on paying off the smallest balance first (regardless of interest rate). This gives you quick psychological wins that keep you motivated. The Avalanche Method targets highest interest rates first to save more money."
+        },
+        {
+          "id": "ul4_q2",
+          "type": "true_false",
+          "question": "Making extra payments on your loan always reduces the total interest you pay.",
+          "correct_answer": true,
+          "explanation": "Yes! Extra payments reduce your principal faster, which means less interest accumulates. Even small extra payments can save thousands over the life of a loan. Just confirm they're applied to principal, not future payments."
+        }
+      ]
+    }
+  ]
+}

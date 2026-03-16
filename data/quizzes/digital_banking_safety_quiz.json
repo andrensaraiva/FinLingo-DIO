@@ -1,0 +1,93 @@
+{
+  "track_id": "digital_banking_safety",
+  "quizzes": [
+    {
+      "lesson_id": "digital_banking_safety_1",
+      "questions": [
+        {
+          "id": "dbs1_q1",
+          "type": "multiple_choice",
+          "question": "What is 'phishing'?",
+          "options": [
+            "A type of investment strategy",
+            "Fake communications designed to steal your login credentials",
+            "A banking fee for online transactions",
+            "A method of encrypting banking data"
+          ],
+          "correct_answer": 1,
+          "explanation": "Phishing uses fake emails, texts, or websites that impersonate trusted institutions (like your bank) to trick you into revealing passwords, PINs, or other sensitive information."
+        },
+        {
+          "id": "dbs1_q2",
+          "type": "true_false",
+          "question": "Your bank may sometimes ask for your full password or PIN via email for security verification.",
+          "correct_answer": false,
+          "explanation": "Your bank will NEVER ask for your full password, PIN, or security code via email, text, or phone call. If someone asks for this information, it is always a scam, regardless of how official it looks."
+        },
+        {
+          "id": "dbs1_q3",
+          "type": "multiple_choice",
+          "question": "What is 'SIM swapping'?",
+          "options": [
+            "Upgrading your phone's SIM card for better service",
+            "A scam where criminals transfer your phone number to their device",
+            "A method of transferring money between bank accounts",
+            "Changing your phone's security settings"
+          ],
+          "correct_answer": 1,
+          "explanation": "SIM swapping is when scammers convince your mobile carrier to transfer your number to their SIM card. They can then receive your 2FA text codes and access your bank accounts."
+        }
+      ]
+    },
+    {
+      "lesson_id": "digital_banking_safety_2",
+      "questions": [
+        {
+          "id": "dbs2_q1",
+          "type": "multiple_choice",
+          "question": "Which type of two-factor authentication (2FA) is the MOST secure?",
+          "options": [
+            "SMS text message codes",
+            "Email verification codes",
+            "Hardware security key (like YubiKey)",
+            "Security questions"
+          ],
+          "correct_answer": 2,
+          "explanation": "Hardware security keys are the most secure form of 2FA because they can't be intercepted remotely. Authenticator apps are second best. SMS codes are vulnerable to SIM swapping attacks."
+        },
+        {
+          "id": "dbs2_q2",
+          "type": "true_false",
+          "question": "Using the same strong password for all accounts is safe as long as it's complex.",
+          "correct_answer": false,
+          "explanation": "Even a very strong password is dangerous if reused. If one service is breached, attackers can use that password to access ALL your other accounts. Use unique passwords for every account, managed by a password manager."
+        }
+      ]
+    },
+    {
+      "lesson_id": "digital_banking_safety_3",
+      "questions": [
+        {
+          "id": "dbs3_q1",
+          "type": "multiple_choice",
+          "question": "What's the FIRST thing you should do if you suspect your bank account has been compromised?",
+          "options": [
+            "Post about it on social media to warn others",
+            "Wait to see if any transactions appear",
+            "Contact your bank immediately to freeze the account",
+            "Change your email password first"
+          ],
+          "correct_answer": 2,
+          "explanation": "Contact your bank immediately! Time is critical. They can freeze your card and account to prevent further unauthorized transactions. Then change your passwords and document everything."
+        },
+        {
+          "id": "dbs3_q2",
+          "type": "true_false",
+          "question": "It's safe to access your bank account on public WiFi as long as the website shows a padlock icon.",
+          "correct_answer": false,
+          "explanation": "The padlock icon (HTTPS) only means the connection is encrypted, not that the network is safe. Attackers on public WiFi can still intercept data through various techniques. Always use mobile data or a trusted private network for banking."
+        }
+      ]
+    }
+  ]
+}

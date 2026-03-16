@@ -1,0 +1,61 @@
+{
+  "track_id": "interest_and_installments",
+  "lessons": [
+    {
+      "id": "iai_01",
+      "title": "What Is Interest?",
+      "order": 1,
+      "pages": [
+        {
+          "content": "### The Cost of Borrowing\n\n**Interest** is the cost of using someone else's money. When you borrow money from a bank, you don't just pay back what you borrowed — you pay a little extra as a fee for the privilege of borrowing. That extra fee is interest.\n\nThink of it like renting: when you rent an apartment, you pay for the right to use it temporarily. Interest is like rent — but for money.\n\n**Example:** You borrow $1,000 at 10% annual interest. After one year, you owe $1,100 — the original $1,000 plus $100 in interest.",
+          "key_terms": ["interest"],
+          "did_you_know": "Interest works both ways! When you put money in a savings account, the bank pays YOU interest for the privilege of using your money."
+        },
+        {
+          "content": "### Why Do Banks Charge Interest?\n\nBanks charge interest for three main reasons:\n\n1. **Risk** — There's always a chance you won't pay back the loan. Interest compensates for that risk.\n2. **Opportunity cost** — The money lent to you could be used elsewhere. Interest compensates for that missed opportunity.\n3. **Inflation** — Money loses value over time. Interest helps maintain the real value of the loan.\n\nThe higher the risk, the higher the interest rate. That's why:\n- **Mortgages** (secured by a house) have lower rates\n- **Credit cards** (unsecured, higher risk) have higher rates\n- **People with good credit scores** get lower rates than those with poor scores",
+          "key_terms": ["risk", "opportunity cost", "inflation"],
+          "did_you_know": null
+        }
+      ]
+    },
+    {
+      "id": "iai_02",
+      "title": "Simple vs. Compound Interest",
+      "order": 2,
+      "pages": [
+        {
+          "content": "### Simple Interest\n\n**Simple interest** is calculated only on the **original amount** (called the principal). It doesn't change over time.\n\n**Formula:** Interest = Principal × Rate × Time\n\n**Example:** You invest $1,000 at 5% simple interest for 3 years.\n- Year 1: $1,000 × 5% = $50 interest → Total: $1,050\n- Year 2: $1,000 × 5% = $50 interest → Total: $1,100\n- Year 3: $1,000 × 5% = $50 interest → Total: $1,150\n\nTotal interest earned: $150. Simple and predictable!",
+          "key_terms": ["simple interest", "principal"],
+          "did_you_know": null
+        },
+        {
+          "content": "### Compound Interest\n\n**Compound interest** is calculated on the principal **plus any interest already earned**. It's interest on interest — and it grows faster over time.\n\n**Example:** Same $1,000 at 5% compound interest for 3 years.\n- Year 1: $1,000 × 5% = $50 → Total: $1,050\n- Year 2: $1,050 × 5% = $52.50 → Total: $1,102.50\n- Year 3: $1,102.50 × 5% = $55.13 → Total: $1,157.63\n\nTotal interest earned: $157.63 — that's $7.63 more than simple interest. It doesn't seem like much over 3 years, but over 20-30 years, the difference is enormous!",
+          "key_terms": ["compound interest"],
+          "did_you_know": "Albert Einstein reportedly called compound interest 'the eighth wonder of the world.' Whether he actually said it or not, the math backs it up!"
+        },
+        {
+          "content": "### The Power of Time\n\nCompound interest becomes truly powerful over long periods. Here's $1,000 at 7% annual compound interest:\n\n| Years | Simple Interest | Compound Interest |\n|---|---|---|\n| 5 | $1,350 | $1,403 |\n| 10 | $1,700 | $1,967 |\n| 20 | $2,400 | $3,870 |\n| 30 | $3,100 | $7,612 |\n\nAfter 30 years, compound interest gives you almost **2.5x more** than simple interest!\n\n**The takeaway:** When you're **saving or investing**, compound interest is your best friend — start early, be patient. When you're **borrowing**, compound interest is your enemy — pay off debts quickly before they snowball.",
+          "key_terms": [],
+          "did_you_know": null
+        }
+      ]
+    },
+    {
+      "id": "iai_03",
+      "title": "Installment Plans Explained",
+      "order": 3,
+      "pages": [
+        {
+          "content": "### What Are Installments?\n\nAn **installment plan** lets you split a purchase into smaller monthly payments instead of paying everything at once. This is common for bigger purchases like electronics, furniture, or even online shopping.\n\n**Sounds great, right?** Well, it depends. There are two types:\n\n1. **Interest-free installments** — The total is simply divided equally. You pay the exact same total price.\n2. **Interest-bearing installments** — Each installment includes interest charges. You end up paying MORE than the original price.\n\nThe key is knowing **which type** you're agreeing to before you split that payment!",
+          "key_terms": ["installment plan", "interest-free", "interest-bearing"],
+          "did_you_know": "Many 'interest-free' installment offers already have the interest baked into the item price, so you're paying interest without realizing it."
+        },
+        {
+          "content": "### The True Cost of Installments\n\nLet's compare buying a $1,200 laptop:\n\n**Option A: Pay upfront** — $1,200 total\n\n**Option B: 12 installments at 1.5%/month interest**\n- Monthly payment: ~$109.56\n- Total paid: $1,314.72\n- Interest paid: $114.72 (9.56% more!)\n\n**Option C: 24 installments at 1.5%/month interest**\n- Monthly payment: ~$60.98\n- Total paid: $1,463.52\n- Interest paid: $263.52 (21.96% more!)\n\nNotice the pattern? **More installments = lower monthly payment, but higher total cost.** The convenience of smaller payments comes at a price — literally.",
+          "key_terms": [],
+          "did_you_know": "In some countries, stores offer 'zero interest' installments but give a discount for cash payment — which means the installment price already includes hidden interest."
+        }
+      ]
+    }
+  ]
+}

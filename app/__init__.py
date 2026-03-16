@@ -1,0 +1,1 @@
+"""FinLingo — App Package"""

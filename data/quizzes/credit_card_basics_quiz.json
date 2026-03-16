@@ -1,0 +1,119 @@
+{
+  "track_id": "credit_card_basics",
+  "quizzes": [
+    {
+      "lesson_id": "ccb_01",
+      "questions": [
+        {
+          "id": "ccb_q01",
+          "type": "multiple_choice",
+          "question": "What happens when you use a credit card to make a purchase?",
+          "options": [
+            "Money is taken directly from your bank account",
+            "The bank pays the store and you owe the bank",
+            "You receive free money from the bank",
+            "The store gives you a loan"
+          ],
+          "correct_answer": 1,
+          "explanation": "When you use a credit card, the bank pays the store on your behalf. You then owe the bank that amount, which appears on your monthly statement."
+        },
+        {
+          "id": "ccb_q02",
+          "type": "true_false",
+          "question": "A credit card and a debit card work exactly the same way.",
+          "correct_answer": false,
+          "explanation": "A debit card takes money directly from your bank account, while a credit card borrows from the bank. They're used similarly at checkout, but the source of funds and repayment terms are very different."
+        },
+        {
+          "id": "ccb_q03",
+          "type": "multiple_choice",
+          "question": "If you pay your full credit card balance by the due date, how much interest do you pay?",
+          "options": [
+            "10% of the balance",
+            "The APR rate divided by 12",
+            "Zero — no interest is charged",
+            "A flat fee of $25"
+          ],
+          "correct_answer": 2,
+          "explanation": "If you pay your full balance by the due date, you get an interest-free grace period. You effectively borrowed the bank's money for free!"
+        }
+      ]
+    },
+    {
+      "lesson_id": "ccb_02",
+      "questions": [
+        {
+          "id": "ccb_q04",
+          "type": "multiple_choice",
+          "question": "What does APR stand for?",
+          "options": [
+            "Average Payment Rate",
+            "Annual Percentage Rate",
+            "Automated Purchase Return",
+            "Applied Principal Reduction"
+          ],
+          "correct_answer": 1,
+          "explanation": "APR stands for Annual Percentage Rate — it's the yearly interest rate charged on your unpaid credit card balance."
+        },
+        {
+          "id": "ccb_q05",
+          "type": "true_false",
+          "question": "Paying only the minimum payment on your credit card is a good long-term strategy.",
+          "correct_answer": false,
+          "explanation": "Paying only the minimum keeps you in debt for years and costs you much more in interest. It's designed to be the bare minimum to avoid penalties, not a healthy repayment plan."
+        },
+        {
+          "id": "ccb_q06",
+          "type": "multiple_choice",
+          "question": "If you owe $3,000 at 22% APR and only pay the minimum ($60/month), approximately how long will it take to pay off?",
+          "options": [
+            "About 2 years",
+            "About 5 years",
+            "About 10 years",
+            "Over 16 years"
+          ],
+          "correct_answer": 3,
+          "explanation": "At minimum payments, it would take over 16 years to pay off $3,000 — and you'd pay about $4,800 in interest alone! That's why paying more than the minimum is crucial."
+        }
+      ]
+    },
+    {
+      "lesson_id": "ccb_03",
+      "questions": [
+        {
+          "id": "ccb_q07",
+          "type": "multiple_choice",
+          "question": "What is the most important factor in your credit score?",
+          "options": [
+            "How many credit cards you have",
+            "Your payment history",
+            "Your income level",
+            "Your age"
+          ],
+          "correct_answer": 1,
+          "explanation": "Payment history accounts for 35% of your credit score — it's the single most important factor. Paying on time, every time, is the #1 way to build good credit."
+        },
+        {
+          "id": "ccb_q08",
+          "type": "multiple_choice",
+          "question": "What percentage of your credit limit should you ideally use?",
+          "options": [
+            "100% — use it all!",
+            "Under 30%",
+            "Exactly 50%",
+            "It doesn't matter"
+          ],
+          "correct_answer": 1,
+          "explanation": "Keeping your credit utilization under 30% (ideally 10-20%) shows lenders you're responsible with credit and helps build a higher credit score."
+        },
+        {
+          "id": "ccb_q09",
+          "type": "true_false",
+          "question": "Credit card rewards are always worth it, even if you carry a balance.",
+          "correct_answer": false,
+          "explanation": "If you carry a balance and pay interest, the interest charges almost always outweigh any rewards earned. Rewards are only truly valuable if you pay your full balance monthly."
+        }
+      ]
+    }
+  ]
+}

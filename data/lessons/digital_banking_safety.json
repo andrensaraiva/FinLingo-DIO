@@ -1,0 +1,56 @@
+{
+  "track_id": "digital_banking_safety",
+  "lessons": [
+    {
+      "id": "digital_banking_safety_1",
+      "title": "Common Scams & Threats",
+      "order": 1,
+      "pages": [
+        {
+          "content": "## Digital Threats to Your Money\n\nAs banking goes digital, so do the risks. Here are the most common threats:\n\n### 🎣 Phishing\nFake emails, texts, or websites that look like your bank to steal your login credentials.\n- The email might say \"Urgent: Your account has been compromised\"\n- Links lead to fake websites that look identical to your bank's\n\n### 📱 Smishing (SMS Phishing)\nText messages claiming to be from your bank asking you to click a link or call a number.\n\n### 📞 Vishing (Voice Phishing)\nPhone calls from scammers pretending to be bank representatives asking for your details.\n\n### ⚠️ Red Flags\n- Urgency: \"Act NOW or your account will be closed\"\n- Requests for passwords, PINs, or full card numbers\n- Messages with typos or unusual email addresses\n- Links that don't match the bank's real website URL",
+          "key_terms": ["phishing", "smishing", "vishing", "social engineering"],
+          "did_you_know": "Phishing attacks increased by 61% in 2022, and the average phishing attack costs a mid-sized company $1.6 million."
+        },
+        {
+          "content": "## More Threats to Watch For\n\n### 🔄 SIM Swapping\nScammers convince your mobile carrier to transfer your phone number to their SIM card. They then receive your 2FA codes and can access your accounts.\n\n### 🖥️ Keyloggers & Malware\nMalicious software installed on your device that records keystrokes, captures passwords, or takes control.\n\n### 📡 Public WiFi Attacks\nHackers can intercept data on unsecured public WiFi networks — especially dangerous for banking.\n\n### 🎭 Social Engineering\nManipulating people into revealing confidential information through psychological tricks.\n\n**Golden Rule:** Your bank will NEVER ask for your full password, PIN, or security code by email, text, or phone. If someone does, it's a scam.",
+          "key_terms": ["SIM swapping", "keylogger", "malware", "public WiFi", "social engineering"],
+          "did_you_know": "In 2023, consumers reported losing $10 billion to fraud in the US alone, according to the FTC."
+        }
+      ]
+    },
+    {
+      "id": "digital_banking_safety_2",
+      "title": "Protecting Your Accounts",
+      "order": 2,
+      "pages": [
+        {
+          "content": "## Strong Password Practices\n\n### What Makes a Strong Password?\n- At least 12 characters long\n- Mix of uppercase, lowercase, numbers, symbols\n- NOT based on personal info (birthday, pet names)\n- UNIQUE for each account\n\n### 🔐 Use a Password Manager\nA password manager generates and stores strong, unique passwords for every account. You only remember ONE master password.\n\nPopular options: Bitwarden (free), 1Password, LastPass\n\n### Bad Passwords (don't use these)\n- 123456, password, qwerty\n- Your birthday or name\n- Dictionary words\n- Same password on multiple sites\n\n**Pro tip:** Consider using a passphrase: \"correct-horse-battery-staple\" is stronger and easier to remember than \"P@ssw0rd!\"",
+          "key_terms": ["password manager", "passphrase", "unique passwords"],
+          "did_you_know": "The most common password in 2023 was still '123456' — used by over 4.5 million accounts. It can be cracked in under 1 second."
+        },
+        {
+          "content": "## Two-Factor Authentication (2FA)\n\n2FA adds a second layer of security beyond your password:\n\n### Types of 2FA (from best to worst)\n1. **🔑 Hardware key** (YubiKey) — most secure\n2. **📱 Authenticator app** (Google Authenticator, Authy) — very secure\n3. **📩 SMS code** — good, but vulnerable to SIM swapping\n4. **📧 Email code** — weakest option\n\n### Enable 2FA on:\n- ✅ Bank accounts (mandatory!)\n- ✅ Email accounts (your email is the recovery key for everything)\n- ✅ Social media\n- ✅ Any account with financial info\n\n### Other Security Steps\n- 🔔 Enable transaction notifications\n- 📊 Check your statements regularly\n- 🔒 Enable biometric login (fingerprint/face) on banking apps\n- 📱 Keep your devices and apps updated",
+          "key_terms": ["two-factor authentication", "2FA", "authenticator app", "biometric"],
+          "did_you_know": "Enabling 2FA blocks 99.9% of automated attacks on your accounts, according to Microsoft."
+        }
+      ]
+    },
+    {
+      "id": "digital_banking_safety_3",
+      "title": "Safe Digital Banking Habits",
+      "order": 3,
+      "pages": [
+        {
+          "content": "## Daily Safety Checklist\n\n### ✅ DO:\n- Use your bank's official app (download from official app store only)\n- Verify URLs before entering credentials (look for https:// and exact domain)\n- Log out of banking sessions when done\n- Use mobile data or home WiFi for banking (not public WiFi)\n- Set up transaction alerts for every purchase\n- Review your account weekly\n\n### ❌ DON'T:\n- Click links in unexpected emails or texts about your bank\n- Share your PIN, password, or security codes with ANYONE\n- Save banking passwords in your browser\n- Leave banking apps open/logged in\n- Use the same email for banking and social media\n- Download apps from unofficial sources",
+          "key_terms": ["HTTPS", "transaction alerts", "official app"],
+          "did_you_know": "The padlock icon in your browser doesn't guarantee a site is legitimate — scammers can get HTTPS certificates too. Always check the actual URL."
+        },
+        {
+          "content": "## What To Do If You're Scammed\n\nAct FAST — time matters:\n\n### Immediate Steps:\n1. 🏦 **Contact your bank** — report unauthorized transactions and freeze your card\n2. 🔐 **Change passwords** — for your bank, email, and any compromised accounts\n3. 📱 **Check other accounts** — scammers may try to access multiple services\n4. 📝 **Document everything** — screenshots, emails, transaction details\n5. 🚔 **File a report** — contact your local police and national fraud center\n\n### Important Rights:\n- Most banks have fraud protection and will reverse unauthorized charges\n- You're typically not liable for unauthorized transactions if you report quickly\n- Many countries have 60-day windows for disputing charges\n\n### Prevention Recovery:\n- Enable alerts for ALL transactions\n- Consider a credit freeze\n- Monitor your credit report for 12 months after\n- Update security on all accounts\n\n**Remember:** Being scammed doesn't mean you're foolish. Scammers are professionals who exploit psychology. Report it and recover.",
+          "key_terms": ["fraud protection", "credit freeze", "dispute", "unauthorized transactions"],
+          "did_you_know": "Banks recover billions in fraud losses each year. If you report unauthorized transactions within 2 business days, your maximum liability is typically limited to $50 or less."
+        }
+      ]
+    }
+  ]
+}
