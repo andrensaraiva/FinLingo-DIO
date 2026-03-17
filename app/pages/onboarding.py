@@ -70,7 +70,7 @@ def _render_info_cards():
                         border-radius: 12px; border: 1px solid #D1FAE5; color: #1E293B;'>
                 <div style='font-size: 2rem;'>📚</div>
                 <strong>Bite-Sized Lessons</strong><br>
-                <small style='color: #475569;'>Learn finance in 2-3 minute lessons</small>
+                <span style='color: #475569; font-size: 0.85em;'>Learn finance in 2-3 minute lessons</span>
             </div>
             """, unsafe_allow_html=True
         )
@@ -82,7 +82,7 @@ def _render_info_cards():
                         border-radius: 12px; border: 1px solid #DBEAFE; color: #1E293B;'>
                 <div style='font-size: 2rem;'>🦊</div>
                 <strong>AI Tutor</strong><br>
-                <small style='color: #475569;'>Ask Fino anything about money</small>
+                <span style='color: #475569; font-size: 0.85em;'>Ask Fino anything about money</span>
             </div>
             """, unsafe_allow_html=True
         )
@@ -94,7 +94,7 @@ def _render_info_cards():
                         border-radius: 12px; border: 1px solid #FED7AA; color: #1E293B;'>
                 <div style='font-size: 2rem;'>🏆</div>
                 <strong>Earn & Grow</strong><br>
-                <small style='color: #475569;'>Track progress and earn badges</small>
+                <span style='color: #475569; font-size: 0.85em;'>Track progress and earn badges</span>
             </div>
             """, unsafe_allow_html=True
         )

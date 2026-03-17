@@ -82,7 +82,7 @@ def render_progress():
                     f"<div style='text-align: center; padding: 12px; background: #F0FDF4; "
                     f"border-radius: 12px; border: 2px solid #10B981; margin-bottom: 8px; color: #1E293B;'>"
                     f"<div style='font-size: 2rem;'>{badge['icon']}</div>"
-                    f"<small><strong>{badge['name']}</strong></small>"
+                    f"<span style='font-size: 0.85em;'><strong>{badge['name']}</strong></span>"
                     f"</div>", unsafe_allow_html=True)
             else:
                 st.markdown(
@@ -90,7 +90,7 @@ def render_progress():
                     f"border-radius: 12px; border: 2px solid #CBD5E1; margin-bottom: 8px; "
                     f"opacity: 0.5; color: #1E293B;'>"
                     f"<div style='font-size: 2rem;'>❓</div>"
-                    f"<small>{badge['name']}</small>"
+                    f"<span style='font-size: 0.85em;'>{badge['name']}</span>"
                     f"</div>", unsafe_allow_html=True)
 
     st.markdown(f"*{len(earned_ids)}/{len(all_badges)} badges earned*")

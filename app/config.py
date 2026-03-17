@@ -76,7 +76,11 @@ CUSTOM_CSS = """
     /* Global font */
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-    html, body, [class*="st-"] {
+    html, body,
+    .stMarkdown, .stButton, .stTextInput, .stSelectbox,
+    .stMultiSelect, .stTextArea, .stNumberInput,
+    .stRadio, .stCheckbox, .stSlider,
+    p, h1, h2, h3, h4, h5, h6, span, div, label, li, td, th {
         font-family: 'Inter', sans-serif;
     }
 
@@ -132,6 +136,20 @@ CUSTOM_CSS = """
         color: #1E293B !important;
     }
 
+    /* Metric text overflow fix */
+    [data-testid="stMetricValue"] {
+        font-size: clamp(1rem, 2.5vw, 1.8rem) !important;
+        white-space: normal !important;
+        word-break: break-word !important;
+        overflow-wrap: break-word !important;
+        line-height: 1.2 !important;
+    }
+
+    [data-testid="stMetricLabel"] {
+        white-space: normal !important;
+        overflow: visible !important;
+    }
+
     /* Chat messages */
     .chat-message {
         padding: 12px 16px;
@@ -167,9 +185,14 @@ CUSTOM_CSS = """
         color: #1E293B !important;
     }
     div[style*="background"] strong,
-    div[style*="background"] small,
-    div[style*="background"] br + small {
+    div[style*="background"] span {
         color: #1E293B !important;
+    }
+
+    /* Nav bar button text fix */
+    .stButton > button p {
+        white-space: nowrap !important;
+        overflow: visible !important;
     }
 </style>
 """

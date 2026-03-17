@@ -23,8 +23,8 @@ def render_chat():
         st.markdown(f"### 🦊 Chat with {MASCOT_NAME}")
 
     st.markdown(
-        f"<small style='color: #64748B;'>ℹ️ {MASCOT_NAME} is an educational AI assistant. "
-        f"This is not financial advice.</small>",
+        f"<span style='color: #64748B; font-size: 0.85em;'>ℹ️ {MASCOT_NAME} is an educational AI assistant. "
+        f"This is not financial advice.</span>",
         unsafe_allow_html=True
     )
     st.markdown("---")

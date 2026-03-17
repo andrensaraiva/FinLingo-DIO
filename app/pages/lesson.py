@@ -50,7 +50,7 @@ def render_lesson():
             st.rerun()
     with col2:
         st.markdown(f"### 📖 {lesson['title']}")
-        st.markdown(f"<small style='color: #475569;'>📚 {track_name}</small>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: #475569; font-size: 0.85em;'>📚 {track_name}</span>", unsafe_allow_html=True)
 
     # Progress indicator
     st.progress((current_page + 1) / total_pages,

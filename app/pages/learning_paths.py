@@ -52,7 +52,7 @@ def _render_track_list(completed_lessons: list):
 
             with col2:
                 st.markdown(f"**{track['title']}** {status_icon}")
-                st.markdown(f"<small style='color: #475569;'>{track['description']}</small>", unsafe_allow_html=True)
+                st.markdown(f"<span style='color: #475569; font-size: 0.85em;'>{track['description']}</span>", unsafe_allow_html=True)
                 st.progress(progress["percentage"] / 100,
                            text=f"{progress['completed_lessons']}/{progress['total_lessons']} lessons — {difficulty}")
 
@@ -111,14 +111,22 @@ def _render_lesson_map(track_id: str, completed_lessons: list):
             color = "#F1F5F9"
             border = "#CBD5E1"
 
+        # Build status line
+        if is_completed:
+            status_html = '<div style="color: #10B981; font-size: 0.85em; margin-top: 4px;">✓ Completed</div>'
+        elif is_current:
+            status_html = '<div style="color: #3B82F6; font-size: 0.85em; margin-top: 4px;">▶ Ready to start</div>'
+        elif is_locked:
+            status_html = '<div style="color: #64748B; font-size: 0.85em; margin-top: 4px;">🔒 Complete previous lessons first</div>'
+        else:
+            status_html = ''
+
         st.markdown(
             f"""
             <div style='background: {color}; padding: 16px; border-radius: 12px;
                         border: 1px solid {border}; margin-bottom: 8px; color: #1E293B;'>
                 {icon} <strong>Lesson {i + 1}:</strong> {lesson['title']}
-                {'<br><small style="color: #10B981;">✓ Completed</small>' if is_completed else ''}
-                {'<br><small style="color: #3B82F6;">▶ Ready to start</small>' if is_current else ''}
-                {'<br><small style="color: #64748B;">🔒 Complete previous lessons first</small>' if is_locked else ''}
+                {status_html}
             </div>
             """, unsafe_allow_html=True
         )
