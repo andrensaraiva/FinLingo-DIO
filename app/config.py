@@ -76,12 +76,27 @@ CUSTOM_CSS = """
     /* Global font */
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-    html, body,
-    .stMarkdown, .stButton, .stTextInput, .stSelectbox,
-    .stMultiSelect, .stTextArea, .stNumberInput,
-    .stRadio, .stCheckbox, .stSlider,
-    p, h1, h2, h3, h4, h5, h6, span, div, label, li, td, th {
+    /* Apply Inter font to text elements only — avoid overriding icon fonts */
+    html, body {
         font-family: 'Inter', sans-serif;
+    }
+
+    .stMarkdown, .stButton > button, .stTextInput, .stSelectbox,
+    .stMultiSelect, .stTextArea, .stNumberInput,
+    .stRadio, .stCheckbox, .stSlider, .stChatInput,
+    p, h1, h2, h3, h4, h5, h6, label, li, td, th, a, input, textarea, select {
+        font-family: 'Inter', sans-serif;
+    }
+
+    /* Protect Streamlit icon fonts (Material Symbols) from being overridden */
+    [data-testid="stSidebarCollapseButton"] span,
+    [data-testid="stSidebarCollapseButton"] button span,
+    [data-testid="stExpanderToggleIcon"],
+    [data-testid="stExpanderToggleIcon"] span,
+    .st-emotion-cache-p5msec,
+    details[data-testid="stExpander"] summary span:first-child,
+    span[class*="material"] {
+        font-family: 'Material Symbols Rounded' !important;
     }
 
     /* Primary colors */
@@ -184,8 +199,7 @@ CUSTOM_CSS = """
     div[style*="background"] {
         color: #1E293B !important;
     }
-    div[style*="background"] strong,
-    div[style*="background"] span {
+    div[style*="background"] strong {
         color: #1E293B !important;
     }
 

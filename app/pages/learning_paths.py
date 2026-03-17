@@ -113,23 +113,28 @@ def _render_lesson_map(track_id: str, completed_lessons: list):
 
         # Build status line
         if is_completed:
-            status_html = '<div style="color: #10B981; font-size: 0.85em; margin-top: 4px;">✓ Completed</div>'
+            status_text = '\u2713 Completed'
+            status_color = '#10B981'
         elif is_current:
-            status_html = '<div style="color: #3B82F6; font-size: 0.85em; margin-top: 4px;">▶ Ready to start</div>'
+            status_text = '\u25b6 Ready to start'
+            status_color = '#3B82F6'
         elif is_locked:
-            status_html = '<div style="color: #64748B; font-size: 0.85em; margin-top: 4px;">🔒 Complete previous lessons first</div>'
+            status_text = '\U0001f512 Complete previous lessons first'
+            status_color = '#64748B'
         else:
-            status_html = ''
+            status_text = ''
+            status_color = ''
 
-        st.markdown(
-            f"""
-            <div style='background: {color}; padding: 16px; border-radius: 12px;
-                        border: 1px solid {border}; margin-bottom: 8px; color: #1E293B;'>
-                {icon} <strong>Lesson {i + 1}:</strong> {lesson['title']}
-                {status_html}
-            </div>
-            """, unsafe_allow_html=True
-        )
+        card_html = f"""<div style='background: {color}; padding: 16px; border-radius: 12px;
+                    border: 1px solid {border}; margin-bottom: 8px; color: #1E293B;'>
+            {icon} <strong>Lesson {i + 1}:</strong> {lesson['title']}"""
+
+        if status_text:
+            card_html += f"""<div style='color: {status_color}; font-size: 0.85em; margin-top: 4px;'>{status_text}</div>"""
+
+        card_html += "</div>"
+
+        st.markdown(card_html, unsafe_allow_html=True)
 
         if is_current or is_completed:
             label = "Review →" if is_completed else "Start Lesson →"
