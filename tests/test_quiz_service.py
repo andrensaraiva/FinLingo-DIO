@@ -15,13 +15,13 @@ from app.services.quiz_service import load_quiz, check_answer, score_quiz
 class TestLoadQuiz:
     def test_load_existing_quiz(self):
         """Should load quiz questions from a known track/lesson."""
-        questions = load_quiz("credit_card_basics", "credit_card_basics_1")
+        questions = load_quiz("credit_card_basics", "ccb_01")
         assert questions is not None
         assert len(questions) > 0
 
     def test_load_quiz_has_required_fields(self):
         """Each question should have required fields."""
-        questions = load_quiz("credit_card_basics", "credit_card_basics_1")
+        questions = load_quiz("credit_card_basics", "ccb_01")
         for q in questions:
             assert "id" in q
             assert "type" in q

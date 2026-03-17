@@ -123,6 +123,13 @@ CUSTOM_CSS = """
         padding: 16px;
         border-radius: 12px;
         border: 1px solid #D1FAE5;
+        color: #1E293B;
+    }
+
+    [data-testid="stMetric"] label,
+    [data-testid="stMetric"] [data-testid="stMetricValue"],
+    [data-testid="stMetric"] [data-testid="stMetricDelta"] {
+        color: #1E293B !important;
     }
 
     /* Chat messages */
@@ -148,11 +155,21 @@ CUSTOM_CSS = """
     /* Disclaimer */
     .disclaimer {
         font-size: 12px;
-        color: #94A3B8;
+        color: #64748B;
         text-align: center;
         padding: 8px;
         border-top: 1px solid #E2E8F0;
         margin-top: 16px;
+    }
+
+    /* Force dark text in all custom HTML cards */
+    div[style*="background"] {
+        color: #1E293B !important;
+    }
+    div[style*="background"] strong,
+    div[style*="background"] small,
+    div[style*="background"] br + small {
+        color: #1E293B !important;
     }
 </style>
 """

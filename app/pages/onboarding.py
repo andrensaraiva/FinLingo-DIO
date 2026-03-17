@@ -36,7 +36,7 @@ def _render_welcome():
         unsafe_allow_html=True
     )
     st.markdown(
-        "<p style='text-align: center; font-size: 1.2rem; color: #64748B;'>"
+        "<p style='text-align: center; font-size: 1.2rem; color: #475569;'>"
         "Learn money. One lesson at a time.</p>",
         unsafe_allow_html=True
     )
@@ -67,10 +67,10 @@ def _render_info_cards():
         st.markdown(
             """
             <div style='text-align: center; padding: 20px; background: #F0FDF4;
-                        border-radius: 12px; border: 1px solid #D1FAE5;'>
+                        border-radius: 12px; border: 1px solid #D1FAE5; color: #1E293B;'>
                 <div style='font-size: 2rem;'>📚</div>
                 <strong>Bite-Sized Lessons</strong><br>
-                <small>Learn finance in 2-3 minute lessons</small>
+                <small style='color: #475569;'>Learn finance in 2-3 minute lessons</small>
             </div>
             """, unsafe_allow_html=True
         )
@@ -79,10 +79,10 @@ def _render_info_cards():
         st.markdown(
             """
             <div style='text-align: center; padding: 20px; background: #EFF6FF;
-                        border-radius: 12px; border: 1px solid #DBEAFE;'>
+                        border-radius: 12px; border: 1px solid #DBEAFE; color: #1E293B;'>
                 <div style='font-size: 2rem;'>🦊</div>
                 <strong>AI Tutor</strong><br>
-                <small>Ask Fino anything about money</small>
+                <small style='color: #475569;'>Ask Fino anything about money</small>
             </div>
             """, unsafe_allow_html=True
         )
@@ -91,10 +91,10 @@ def _render_info_cards():
         st.markdown(
             """
             <div style='text-align: center; padding: 20px; background: #FFF7ED;
-                        border-radius: 12px; border: 1px solid #FED7AA;'>
+                        border-radius: 12px; border: 1px solid #FED7AA; color: #1E293B;'>
                 <div style='font-size: 2rem;'>🏆</div>
                 <strong>Earn & Grow</strong><br>
-                <small>Track progress and earn badges</small>
+                <small style='color: #475569;'>Track progress and earn badges</small>
             </div>
             """, unsafe_allow_html=True
         )
@@ -164,7 +164,7 @@ def _render_ready():
         unsafe_allow_html=True
     )
     st.markdown(
-        f"<p style='text-align: center; font-size: 1.1rem; color: #64748B;'>"
+        f"<p style='text-align: center; font-size: 1.1rem; color: #475569;'>"
         f"{MASCOT_NAME} has prepared your personalized learning path.<br>"
         f"Let's start your financial education journey!</p>",
         unsafe_allow_html=True

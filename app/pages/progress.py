@@ -80,7 +80,7 @@ def render_progress():
             if is_earned:
                 st.markdown(
                     f"<div style='text-align: center; padding: 12px; background: #F0FDF4; "
-                    f"border-radius: 12px; border: 2px solid #10B981; margin-bottom: 8px;'>"
+                    f"border-radius: 12px; border: 2px solid #10B981; margin-bottom: 8px; color: #1E293B;'>"
                     f"<div style='font-size: 2rem;'>{badge['icon']}</div>"
                     f"<small><strong>{badge['name']}</strong></small>"
                     f"</div>", unsafe_allow_html=True)
@@ -88,7 +88,7 @@ def render_progress():
                 st.markdown(
                     f"<div style='text-align: center; padding: 12px; background: #F1F5F9; "
                     f"border-radius: 12px; border: 2px solid #CBD5E1; margin-bottom: 8px; "
-                    f"opacity: 0.5;'>"
+                    f"opacity: 0.5; color: #1E293B;'>"
                     f"<div style='font-size: 2rem;'>❓</div>"
                     f"<small>{badge['name']}</small>"
                     f"</div>", unsafe_allow_html=True)

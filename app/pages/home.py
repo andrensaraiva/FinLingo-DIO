@@ -48,7 +48,7 @@ def render_home():
                 f"""
                 <div style='background: linear-gradient(135deg, #F0FDF4, #ECFDF5);
                             padding: 20px; border-radius: 12px; border: 1px solid #D1FAE5;
-                            margin-bottom: 16px;'>
+                            margin-bottom: 16px; color: #1E293B;'>
                     <strong>📖 Continue Learning</strong><br>
                     {track_info['icon']} {track_info['title']} — {progress['percentage']}% complete<br>
                 </div>
@@ -115,7 +115,7 @@ def render_home():
         st.markdown(
             f"""
             <div style='background: #FFF7ED; padding: 16px; border-radius: 12px;
-                        border: 1px solid #FED7AA;'>
+                        border: 1px solid #FED7AA; color: #1E293B;'>
                 🦊 <strong>{MASCOT_NAME}'s Tip of the Day</strong><br>
                 {tip}
             </div>
